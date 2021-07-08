@@ -65,8 +65,6 @@
 Unit-test cover all components, redux actions and redux store.
 API mock was enabled by [axios-mock-adapter](https://www.npmjs.com/package/axios-mock-adapter) which is dead simple to use :)
 
-Api fetching is proxy in webpack config.
-
 Since this project is develop using typescripts and ts-loader is used. So it skips Babel.
 
 <!-- GETTING STARTED -->
