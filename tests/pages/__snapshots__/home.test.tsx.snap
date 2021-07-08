@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> Simple Render should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="page-home"
+  >
+    <form>
+      <input
+        type="text"
+      />
+      <button
+        placeholder="username"
+        type="submit"
+      >
+        Search
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
