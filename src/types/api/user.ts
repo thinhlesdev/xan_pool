@@ -1,5 +1,4 @@
 export type TUser = {
-    id: number;
-    name: string;
-  }[];
-  
+  id: number;
+  name: string;
+}[];

@@ -1,4 +1,4 @@
 export type TRepo = {
-    id: number;
-    name: string;
-  };
+  id: number;
+  name: string;
+};
